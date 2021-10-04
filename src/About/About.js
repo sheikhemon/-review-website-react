@@ -7,7 +7,7 @@ const About = () => {
         <h2 className="text-center mb-4 text-primary pb-4 fw-bold">WELCOME TO LEARNING PROGRAMMING</h2>
         <Row>
           <Col className="pe-3">
-            <h5>ABOUT US</h5>
+            <h5 style={{ color: '#232946' }}>ABOUT US</h5>
             <p>
               There are countless online education marketplaces on the internet.
               And there’s us. We are not the biggest. We are not the cheapest.
@@ -15,7 +15,7 @@ const About = () => {
               completion rate in the industry.course, we commit to the student. We are not going to sugar coat
               it - we will make you complete, come what may. You may not have
             </p>
-            <h5>OUR REASON</h5>
+            <h5 style={{ color: '#232946' }}>OUR REASON</h5>
             <p>
               And the reason is, we don’t give up. When a student commits to a
               course, we commit to the student. We are not going to sugar coat
@@ -27,14 +27,14 @@ const About = () => {
             </p>
           </Col>
           <Col className="pe-3">
-            <h5>OUR AIM</h5>
+            <h5 style={{ color: '#232946' }}>OUR AIM</h5>
             <p>
               To become the largest online learning ecosystem for continuing
               education, in partnership with corporates and academia.reminders,
               absolutely make sure that you run out of excuses to not complete
               the course.professional life to the next level.complete, come what may. You may not have
             </p>
-            <h5>OUR TARGET</h5>
+            <h5 style={{ color: '#232946' }}>OUR TARGET</h5>
             <p>
               To create an alternate platform for students who wish to continue
               and complete courses by attending live online courses, using a
@@ -47,7 +47,7 @@ const About = () => {
         </Row>
         <Row className="mt-4">
           <Col>
-            <h5>Sign up for our monthly newsletter</h5>
+            <h5 style={{ color: '#232946' }}>Sign up for our monthly newsletter</h5>
             <p>Be the first to know about news and updates</p>
           </Col>
           <Col className="d-flex align-items-center">
