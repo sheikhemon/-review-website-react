@@ -1,0 +1,7 @@
+.footer-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    background-color: rgb(3, 16, 17);
+}

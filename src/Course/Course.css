@@ -1,0 +1,18 @@
+.bg-course {
+    background-color: #232946 !important;
+    color: #ffffff;
+}
+
+.img {
+    height: 350px;
+    width: 100%;
+}
+
+.btn-hero {
+    background-color: #eebbc3;
+    color: #fefeff;
+    border: 1px solid #fefeff;
+    font-weight: 700;
+    outline: none;
+    padding: 8px 16px;
+}
